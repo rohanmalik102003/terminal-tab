@@ -88,7 +88,7 @@ Check the Intructions mentioned inside the .tar file
 
 ### 🍏 Mac  
 
-Get your mom a Windows or Linux PC 😉 
+Ask your mom for a Windows or Linux PC 😉 
 
 ---
 
