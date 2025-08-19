@@ -1,0 +1,12 @@
+test.html
+**/node_modules/
+**/deb/
+*.exe
+*.dll
+*.conf
+*.properties
+*.bat
+NOTICE.txt
+browser_usage.txt
+status.txt
+nohup.out
